@@ -1,0 +1,24 @@
+body {
+  box-sizing: border-box;
+}
+.container {
+  text-align: center;
+}
+#input {
+  width: 250px;
+  height: 25px;
+}
+#button {
+  width: 100px;
+  height: 30px;
+  background-color: rgb(40, 175, 40);
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+}
+li {
+  list-style-type: none;
+}
+.text-decoration {
+  text-decoration: line-through;
+}
